@@ -1,0 +1,8 @@
+Candidate,Sample_Set,Fraction_of_cases,Error
+Hep_sox,Control,0.063725397,0.004165504
+Hep_sox,cebpa_DE,0.024565235,0.000813671
+Hep_sox,cebpa_OE,0.116807518,0.003034369
+sox9_hep,sox9_DE,0.019518652,0.001145095
+sox9_hep,sox9_OE,0.221274424,0.003386084
+sox9_hep,tgfbr2_DE,0.046181906,0.003837243
+sox9_hep,tgfbr2_OE,0.087481758,0.002279134

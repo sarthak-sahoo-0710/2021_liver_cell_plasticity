@@ -1,0 +1,8 @@
+Candidate,Sample_Set,Fraction_of_cases,Error
+blast,Control,0.183296181,0.002536107
+blast,cebpa_DE,0.279562477,0.002869582
+blast,cebpa_OE,0.082065859,0.002212698
+blast,sox9_DE,0.348809498,0.005891208
+blast,sox9_OE,0.028354879,0.002075362
+blast,tgfbr2_DE,0.184789484,0.005316756
+blast,tgfbr2_OE,0.182581355,0.002378554

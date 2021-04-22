@@ -1,0 +1,13 @@
+Candidate,Sample_Set,Fraction_of_cases,Error
+Hepatocytes,Control,0.440630419,0.0027550730
+Sox9+_Hepatocytes,Control,0.071240863,0.0019859460
+Cholangiocytes,Control,0.315214307,0.0021667540
+Hepatoblasts,Control,0.17291441,0.0026691380
+Hepatocytes,Tgfb OE,0.347203632,0.001616640
+Sox9+_Hepatocytes,Tgfb OE,0.098332623,0.0007270260
+Cholangiocytes,Tgfb OE,0.378790219,0.000567817
+Hepatoblasts,Tgfb OE,0.175673526,0.0022033570
+Hepatocytes,Tgfb DE,0.545251039,0.0047015290
+Sox9+_Hepatocytes,Tgfb DE,0.06624367,0.002095756
+Cholangiocytes,Tgfb DE,0.230776014,0.004042169
+Hepatoblasts,Tgfb DE,0.157729277,0.003432457
