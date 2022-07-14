@@ -1,4 +1,4 @@
-# Bifurcation Analysis (Figure 5, 6)
+# Bifurcation Analysis (Figure 5A, 6B, 6D)
 
 ## Core Bifurcation
 The folder `core_bifurcation` contains codes and corresponding data and plots for Fig. 5A.
